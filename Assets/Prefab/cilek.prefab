@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 8761591993385077487}
   - component: {fileID: 4771068036946096561}
   - component: {fileID: -773623879617525637}
+  - component: {fileID: 1722166155572891812}
   m_Layer: 0
   m_Name: cilek
   m_TagString: Untagged
@@ -203,3 +204,15 @@ PolygonCollider2D:
       - {x: -0.32999998, y: -1.5}
       - {x: 0.099999994, y: -1.38}
       - {x: 0.84999996, y: -1.13}
+--- !u!114 &1722166155572891812
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2271885004826493243}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe807895770475649bfd6cdae5002807, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

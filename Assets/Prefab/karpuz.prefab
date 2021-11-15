@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 5948332702061641961}
   - component: {fileID: 5647102228951903073}
   - component: {fileID: -2366166832836389424}
+  - component: {fileID: 545403679802756996}
   m_Layer: 0
   m_Name: karpuz
   m_TagString: Untagged
@@ -226,3 +227,15 @@ PolygonCollider2D:
       - {x: 0.29, y: -2.8999999}
       - {x: 0.44, y: -2.8799999}
       - {x: 0.55, y: -2.86}
+--- !u!114 &545403679802756996
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1394093192667192335}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe807895770475649bfd6cdae5002807, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
