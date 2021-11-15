@@ -5,8 +5,8 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     public GameObject[] meyve;
-    float zaman = 1f;
     public GameController gameC;
+    float zaman = 1f;
     void Start()
     {
         
